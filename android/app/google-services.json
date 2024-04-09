@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "463306807758",
+    "firebase_url": "https://udemyfirebase-4f0ad-default-rtdb.firebaseio.com",
+    "project_id": "udemyfirebase-4f0ad",
+    "storage_bucket": "udemyfirebase-4f0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463306807758:android:34b87456229c01262bb39f",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_uygulamasi_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuUuhpAKbCtM_Y6OvTnO6zL5rzME11Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
